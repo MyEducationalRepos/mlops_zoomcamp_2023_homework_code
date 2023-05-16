@@ -1,2 +1,6 @@
-# mlops_zoomcamp_2023_homework_code
-Code for Homework  MLOps Zoomcamp 2023
+# MLOps Zoomcamp 2023 homework code
+Code for Homework  MLOps Zoomcamp 2023.
+Contains:
+- Jupyter notebooks
+- Other docs, as specified
+
